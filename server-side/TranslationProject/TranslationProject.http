@@ -1,0 +1,6 @@
+@TranslationProject_HostAddress = http://localhost:5189
+
+GET {{TranslationProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
